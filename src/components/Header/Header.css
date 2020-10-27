@@ -21,6 +21,21 @@
 
 ::placeholder {
   padding-left: 10px;
-  font-size: 17px;
+  font-size: 20px;
   color: #ffe600;
+  font-weight: bold;
+  -webkit-text-stroke-width: 0.1px;
+  -webkit-text-stroke-color: orange;
+}
+
+@media (max-width: 900px) {
+  .bloc {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .search-bar {
+    margin-right: 10px;
+  }
 }
