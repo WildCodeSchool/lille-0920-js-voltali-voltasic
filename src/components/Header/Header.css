@@ -1,5 +1,6 @@
 .background-header {
-  background-color: #ffe600;
+  background-color: #000;
+  border-bottom: #ffe600 2px solid;
 }
 
 .bloc {
@@ -15,8 +16,9 @@
 .search-bar {
   margin-left: 40px;
   width: 350px;
-  height: 50px;
+  height: 40px;
   border-radius: 15px;
+  border: #ffe600 3px solid;
 }
 
 ::placeholder {
