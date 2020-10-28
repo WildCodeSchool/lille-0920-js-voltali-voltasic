@@ -16,7 +16,7 @@
     align-items: center;
   }
   .footer-responsive > a {
-    size: 3vh;
+    font-size: 6vh;
     text-decoration: none;
     color: yellow;
   }
@@ -36,7 +36,7 @@
     justify-content: space-around;
   }
   .footer-desk > a {
-    font-size: 2vh;
+    font-size: 3vh;
     text-decoration: none;
     color: yellow;
   }

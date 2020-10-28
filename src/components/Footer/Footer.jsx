@@ -10,7 +10,7 @@ const Footer = () => {
         <a href="Parametres">Parametres</a>
       </div>
       <div className="footer-responsive">
-        <a href="homme">
+        <a href="home">
           <i className="fas fa-home" />
         </a>
         <a href="contact">
