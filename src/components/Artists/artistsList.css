@@ -1,0 +1,25 @@
+.artistslist-main {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  flex-wrap: wrap;
+}
+
+h1 {
+  color: yellow;
+  font-size: 100%;
+}
+
+.artists-image {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  background-position: center;
+  background-size: 200%;
+  background-repeat: no-repeat;
+}
+
+.artistslist-display-artists {
+  display: flex;
+  flex-wrap: nowrap;
+}

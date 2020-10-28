@@ -1,0 +1,17 @@
+.artists-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 10px;
+  transition: transform 0.2s;
+}
+
+h3 {
+  color: yellow;
+}
+
+.artists-main:hover {
+  transition: transform 0.2s;
+  transform: scale(1.5);
+}
