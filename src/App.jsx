@@ -1,20 +1,12 @@
 import './App.css';
+import Footer from './components/Footer/Footer';
+import './components/Footer/Footer.css';
 
 function App() {
   return (
-    <main className="container">
-      <div className="item">
-        <h1>Hello world !</h1>
-      </div>
-      <div className="item">
-        <p>Welcome to your fresh, lightweight, React App ! &#127752;</p>
-      </div>
-      <div className="item">
-        <p>
-          Start in the <code>App.jsx</code> component !
-        </p>
-      </div>
-    </main>
+    <div className="footer">
+      <Footer />
+    </div>
   );
 }
 
