@@ -13,5 +13,5 @@ h3 {
 
 .artists-main:hover {
   transition: transform 0.2s;
-  transform: scale(1.5);
+  transform: scale(1.1);
 }
