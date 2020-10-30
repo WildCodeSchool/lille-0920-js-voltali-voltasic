@@ -24,7 +24,7 @@
 ::placeholder {
   padding-left: 10px;
   font-size: 20px;
-  color: #ffe600;
+  opacity: 10%;
   font-weight: bold;
   -webkit-text-stroke-width: 0.1px;
   -webkit-text-stroke-color: orange;
@@ -38,6 +38,7 @@
   }
 
   .search-bar {
+    width: 90%;
     margin-right: 10px;
   }
 }
